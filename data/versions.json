@@ -1,0 +1,19 @@
+{
+ "country": "NG-LA",
+ "acts": [
+  {
+   "slug": "tenancy-law-2011",
+   "short": "Tenancy Law 2011",
+   "title": "Tenancy Law 2011 (Law No. 14 of 2011)",
+   "url": "https://lagosstatemoj.org/wp-content/uploads/2020/12/Tenancy-Law-2011.pdf",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 51,
+     "source_url": "https://lagosstatemoj.org/wp-content/uploads/2020/12/Tenancy-Law-2011.pdf",
+     "sha256": "73a3bad534690771e545b89ba7d78252f51734b4fc08bb6438d45cf77c48ccd7"
+    }
+   ]
+  }
+ ]
+}

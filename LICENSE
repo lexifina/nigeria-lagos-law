@@ -1,0 +1,16 @@
+Law texts
+
+The texts in this repository are Laws of Lagos State as published in the Lagos State of Nigeria Official Gazette,
+taken from the copies the Lagos State Ministry of Justice publishes at lagosstatemoj.org.
+
+- Copyright: the Copyright Act, 2022 (Nigeria), s. 3, says: "The following shall not be eligible for copyright -- ...
+  (b) official texts of a legislative or administrative nature as well as any official translations, except their
+  compilations". The Laws here are such official texts. The Ministry's website carries a general "All rights reserved"
+  footer, which does not reach texts that are not eligible for copyright; no compilation of the Ministry's is copied.
+- The Ministry's PDFs are not the authoritative text: the Laws as published in the Lagos State of Nigeria Official
+  Gazette are.
+
+Attribution: Source: Lagos State Ministry of Justice, https://lagosstatemoj.org.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

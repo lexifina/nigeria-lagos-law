@@ -1,0 +1,8 @@
+{
+  "path": "ng-la",
+  "code": "NG-LA",
+  "name": "Lagos State",
+  "level": "country",
+  "repo": "https://github.com/lexifina/nigeria-lagos-law",
+  "build": "built: Laws of Lagos State as enacted, from the gazetted texts published by the Lagos State Ministry of Justice"
+}
