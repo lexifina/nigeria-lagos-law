@@ -1,0 +1,17 @@
+{
+ "parts": {
+  "10-laws-01.json": {
+   "acts": [
+    "tenancy-law-2011"
+   ],
+   "sha256": "98a24332deaeafbce41e3b9b88f4923ace4d01759de6602677e9d8169980c417"
+  },
+  "20-laws-02.json": {
+   "acts": [
+    "road-traffic-law-2012"
+   ],
+   "sha256": "4109f3ed0132cd99f043fe559780ac4dc73fda8fe840a15adcd0b8866b8ee922"
+  }
+ },
+ "schema": 1
+}
