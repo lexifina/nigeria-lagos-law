@@ -14,6 +14,20 @@
      "sha256": "73a3bad534690771e545b89ba7d78252f51734b4fc08bb6438d45cf77c48ccd7"
     }
    ]
+  },
+  {
+   "slug": "road-traffic-law-2012",
+   "short": "Road Traffic Law 2012",
+   "title": "Lagos State Road Traffic Law 2012, with Schedules and Regulations",
+   "url": "https://lagosstatemoj.org/wp-content/uploads/2020/12/Lagos-State-Road-Traffic-Law.pdf",
+   "versions": [
+    {
+     "from": "2012-08-02",
+     "units": 1,
+     "source_url": "https://lagosstatemoj.org/wp-content/uploads/2020/12/Lagos-State-Road-Traffic-Law.pdf",
+     "sha256": "683e0a102e6d4f641a5b7b0a87d30365e465ed5d6ff87a9401ca2d4669c08f8d"
+    }
+   ]
   }
  ]
 }
