@@ -28,6 +28,20 @@
      "sha256": "683e0a102e6d4f641a5b7b0a87d30365e465ed5d6ff87a9401ca2d4669c08f8d"
     }
    ]
+  },
+  {
+   "slug": "arbitration-law-2009",
+   "short": "Arbitration Law 2009",
+   "title": "Lagos State Arbitration Law 2009",
+   "url": "https://lagosstatemoj.org/wp-content/uploads/2025/04/Lagos-State-Arbitration-Law-2009.pdf",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 1,
+     "source_url": "https://lagosstatemoj.org/wp-content/uploads/2025/04/Lagos-State-Arbitration-Law-2009.pdf",
+     "sha256": "58083ccad544a1310024d16e18b15557037cf9dad4bc89c0a25251d16c45338a"
+    }
+   ]
   }
  ]
 }

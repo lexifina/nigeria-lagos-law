@@ -12,6 +12,7 @@ The Lagos State Ministry of Justice publishes a small number of Laws as PDFs of 
 | --- | --- |
 | `tenancy-law-2011/` | Tenancy Law 2011 as gazetted: title, enacting formula and sections 1 to 49; the source PDF ends during section 49 |
 | `road-traffic-law-2012/` | Road Traffic Law 2012 as gazetted on 3 August 2012, including Schedules and Regulations; one whole-text file preserves the source's page order |
+| `arbitration-law-2009/` | Submitted for independent review: oldest Ministry copy, sections 1–64 and Schedule (Arbitration Applications Rules 2009), dated by section 64 to 18 May 2009; one complete-text file, source printing errors retained |
 
 The Laws are added in parts as each is verified. A PDF is left out until it can be read reliably: scans whose text layer is a poor OCR, and copies that are the Bill rather than the Law as passed (the Ministry's copy of the Criminal Law of Lagos State is the Bill, with its commencement day left blank) are not included.
 

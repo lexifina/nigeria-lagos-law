@@ -11,6 +11,12 @@
     "road-traffic-law-2012"
    ],
    "sha256": "4109f3ed0132cd99f043fe559780ac4dc73fda8fe840a15adcd0b8866b8ee922"
+  },
+  "30-laws-q139-arbitration.json": {
+   "acts": [
+    "arbitration-law-2009"
+   ],
+   "sha256": "c9492111d547a89bbab6ff9281b94ae03302e1344efc158f6cead55f683acc9f"
   }
  },
  "schema": 1
