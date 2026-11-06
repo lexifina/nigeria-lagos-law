@@ -1,5 +1,7 @@
 # Lagos State: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Lagos State, Nigeria, which global-law reads at `nigeria/lagos/acts/`.
+
 The Laws of Lagos State (Nigeria) as a git history: one file per section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English text of the Laws as gazetted.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
